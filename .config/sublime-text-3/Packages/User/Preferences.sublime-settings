@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/molokai/molokai.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme"
+}

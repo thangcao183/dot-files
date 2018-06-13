@@ -1,0 +1,24 @@
+find pacm
+open_with xpdf
+rename 8g1bkh27n3rx.jpg
+rename Pictures
+rename 1510020026486.jpg
+shell rm *.jpq.*
+shell *.jpg.*
+
+shell rm *.jpg
+open_with vim
+shell sudo
+shell su
+shell mv *.jpg toplist5x4
+shell mv *.jpg ../toplist5x4
+shell mv *.png ../toplist5x4
+shell mv * ../toplist5x4
+open_with unrar
+open_with unrar -e
+shell unrar -e *.rar
+shell unrar 06_Kien\ thuc\ co\ ban\ Slackware\ Linux.rar
+shell unrar 06_Kien\ thuc\ co\ ban\ Slackware\ Linux.rar -v
+shell cp logoatlantic.jpg /home/wolf/Pictures/pts/
+search thang
+delete

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="inform_working_dir" mtime="1510664719" type="bool" value="true"/>
+	<entry name="width" mtime="1510664772" type="int" value="1006"/>
+	<entry name="height" mtime="1510664772" type="int" value="1280"/>
+	<entry name="y" mtime="1510664772" type="int" value="18"/>
+	<entry name="x" mtime="1510664772" type="int" value="0"/>
+	<entry name="inform_working_dir_crontab" mtime="1510664423" type="bool" value="true"/>
+</gconf>

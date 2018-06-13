@@ -1,0 +1,39 @@
+{
+   "checksum": "cb2116c634a0e3e582e1f53c493f0e48",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13154431277035773",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13154431277067801"
+            },
+            "name": "Font Awesome Cheatsheet",
+            "type": "url",
+            "url": "http://fontawesome.io/cheatsheet/"
+         } ],
+         "date_added": "13154428806174674",
+         "date_modified": "13154431277035773",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13154428806174694",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13154428806174696",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
