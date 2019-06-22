@@ -1,0 +1,214 @@
+# package.use# required by dev-lang/spidermonkey-52.9.1_pre1::gentoo
+# required by sys-auth/polkit-0.115-r3::gentoo
+# required by gnome-extra/polkit-gnome-0.105-r1::gentoo
+>=dev-lang/python-2.7.15:2.7 sqlite
+# required by sys-kernel/genkernel-3.5.3.3::gentoo
+# required by genkernel (argument)
+>=sys-apps/util-linux-2.33-r1 static-libs
+# required by app-editors/neovim-0.3.4-r1::gentoo
+# required by dev-python/neovim-python-client-0.3.2-r1::gentoo
+>=dev-lua/lpeg-1.0.1 luajit
+# required by app-editors/neovim-0.3.4-r1::gentoo
+# required by dev-python/neovim-python-client-0.3.2-r1::gentoo
+>=dev-lua/mpack-1.0.4 luajit
+# required by dev-libs/msgpack-3.1.1::gentoo[boost]
+# required by app-editors/neovim-0.3.4-r1::gentoo
+# required by dev-python/neovim-python-client-0.3.2-r1::gentoo
+>=dev-libs/boost-1.65.0 context
+# required by sys-devel/prelink-20130503::gentoo
+# required by prelink (argument)
+>=dev-libs/elfutils-0.173-r1 static-libs
+>=x11-wm/awesome-4.2-r2 gnome
+# required by x11-libs/libXrandr-1.5.2::gentoo
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libX11-1.6.7 abi_x86_32 -test
+# required by x11-libs/libxcb-1.13.1::gentoo
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libXau-1.0.9 abi_x86_32
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libxcb-1.13.1 abi_x86_32 -test
+# required by x11-libs/libxcb-1.13.1::gentoo
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libXdmcp-1.1.3 abi_x86_32
+# required by x11-libs/libxcb-1.13.1::gentoo
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=dev-libs/libpthread-stubs-0.4-r1 abi_x86_32
+# required by x11-libs/libpciaccess-0.14::gentoo
+# required by x11-libs/libdrm-2.4.97::gentoo[video_cards_intel]
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=virtual/pkgconfig-1 abi_x86_32
+# required by virtual/pkgconfig-1::gentoo
+# required by gnome-extra/zenity-3.30.0::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay
+# required by games-util/steam-launcher (argument)
+>=dev-util/pkgconf-1.5.4 abi_x86_32 -test
+# required by x11-libs/libxcb-1.13.1::gentoo
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-base/xcb-proto-1.13 abi_x86_32
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=virtual/opengl-7.0-r2 abi_x86_32
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=media-libs/mesa-18.3.6 abi_x86_32 -test
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=dev-libs/expat-2.2.6 abi_x86_32
+# required by dev-libs/libxml2-2.9.9-r1::gentoo
+# required by x11-base/xcb-proto-1.13::gentoo
+# required by x11-libs/libxcb-1.13.1::gentoo
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=sys-libs/zlib-1.2.11-r2 abi_x86_32
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libxshmfence-1.3-r1 abi_x86_32
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libXdamage-1.1.5 abi_x86_32
+# required by x11-libs/libXrandr-1.5.2::gentoo
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libXext-1.3.4 abi_x86_32
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libXxf86vm-1.1.4-r1 abi_x86_32
+# required by x11-libs/libXdamage-1.1.5::gentoo
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libXfixes-5.0.3-r1 abi_x86_32
+# required by media-libs/mesa-18.3.6::gentoo[lm_sensors,gallium]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=sys-apps/lm_sensors-3.5.0 abi_x86_32
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libdrm-2.4.97 abi_x86_32
+# required by media-libs/mesa-18.3.6::gentoo[-video_cards_r600,-video_cards_radeonsi,llvm,-video_cards_radeon,-opencl]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=sys-devel/llvm-7.1.0 abi_x86_32
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libXrandr-1.5.2 abi_x86_32
+# required by x11-libs/libXrandr-1.5.2::gentoo
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libXrender-0.9.10-r1 abi_x86_32
+# required by sys-devel/llvm-7.1.0::gentoo[ncurses]
+# required by media-libs/mesa-18.3.6::gentoo[-video_cards_r600,-video_cards_radeonsi,llvm,-video_cards_radeon,-opencl]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=sys-libs/ncurses-6.1-r2 abi_x86_32 -gpm -test
+# required by sys-devel/llvm-7.1.0::gentoo[xml]
+# required by media-libs/mesa-18.3.6::gentoo[-video_cards_r600,-video_cards_radeonsi,llvm,-video_cards_radeon,-opencl]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=dev-libs/libxml2-2.9.9-r1 abi_x86_32 -test
+# required by dev-libs/libxml2-2.9.9-r1::gentoo[lzma]
+# required by x11-base/xcb-proto-1.13::gentoo
+# required by x11-libs/libxcb-1.13.1::gentoo
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=app-arch/xz-utils-5.2.4-r2 abi_x86_32
+# required by sys-libs/ncurses-6.1-r2::gentoo[gpm]
+# required by sys-devel/llvm-7.1.0::gentoo[ncurses]
+# required by media-libs/mesa-18.3.6::gentoo[-video_cards_r600,-video_cards_radeonsi,llvm,-video_cards_radeon,-opencl]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=sys-libs/gpm-1.20.7-r2 abi_x86_32
+# required by x11-libs/libdrm-2.4.97::gentoo[video_cards_intel]
+# required by media-libs/mesa-18.3.6::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libpciaccess-0.14 abi_x86_32
+# required by sys-devel/llvm-7.1.0::gentoo[libffi]
+# required by media-libs/mesa-18.3.6::gentoo[-video_cards_r600,-video_cards_radeonsi,llvm,-video_cards_radeon,-opencl]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=virtual/libffi-3.0.13-r1 abi_x86_32 -test
+# required by virtual/libffi-3.0.13-r1::gentoo
+# required by sys-devel/llvm-7.1.0::gentoo[libffi]
+# required by media-libs/mesa-18.3.6::gentoo[-video_cards_r600,-video_cards_radeonsi,llvm,-video_cards_radeon,-opencl]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.59-r3::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=dev-libs/libffi-3.2.1 abi_x86_32
+# required by x11-terms/termite-11::nightmare
+# required by x11-terms/termite (argument)
+=x11-libs/vte-0.42.1 termite-patch
+# required by app-office/libreoffice-bin-6.1.5.2::gentoo
+# required by libreoffice-bin (argument)
+>=media-libs/harfbuzz-2.3.1 icu
+# required by sys-boot/plymouth-0.9.4-r1::gentoo[libkms]
+# required by sys-boot/plymouth (argument)
+>=x11-libs/libdrm-2.4.97 libkms
+# required by kde-plasma/kwin-5.15.5::gentoo
+# required by kde-plasma/libkworkspace-5.15.5::gentoo
+# required by kde-plasma/kde-cli-tools-5.15.5::gentoo
+# required by kde-plasma/breeze-5.15.5::gentoo
+# required by dev-qt/qtwayland-5.12.3::gentoo
+# required by kde-frameworks/kwayland-5.57.0::gentoo
+# required by kde-plasma/kscreenlocker-5.15.5::gentoo
+# required by kde-plasma/kwin-5.15.5::gentoo
+# required by kde-plasma/libkworkspace-5.15.5::gentoo
+# required by kde-plasma/kde-cli-tools-5.15.5::gentoo
+# required by kde-plasma/breeze-5.15.5::gentoo
+>=app-arch/rar-5.7.0_p20190224 all_sfx
+>=net-misc/remmina-1.2.31.3 rdp spice vnc
+# required by games-util/lutris-0.5.2.1::gentoo[python_targets_python3_6]
+# required by lutris (argument)
+>=dev-lang/python-3.6.5 sqlite
+# required by app-misc/neofetch-6.0.0::gentoo[X]
+# required by neofetch (argument)
